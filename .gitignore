@@ -1,0 +1,8 @@
+target/
+.java-version
+.classpath
+.project
+.settings/
+/bin/
+.cache*
+dump.txt
